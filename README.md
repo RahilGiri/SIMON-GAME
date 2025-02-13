@@ -28,7 +28,7 @@ Game Rules
 Setup Instructions
 	1.	Clone this repository to your local machine:
 
-                git clone <repository-url>
+        git clone <repository-url>
 
 
 	2.	Open the index.html file in your web browser to start playing the game.
