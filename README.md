@@ -23,3 +23,23 @@ Game Rules
 	2.	After each correct click, a new color is added to the sequence, and the player must repeat the entire sequence.
 	3.	The player must click the correct buttons in the same order to continue progressing.
 	4.	The game ends if the player clicks the wrong button, at which point their current score is displayed.
+
+
+Setup Instructions
+	1.	Clone this repository to your local machine:
+
+                git clone <repository-url>
+
+
+	2.	Open the index.html file in your web browser to start playing the game.
+	3.	The game works on all modern browsers that support JavaScript and basic HTML5 features.
+
+Usage
+	•	Start the Game: Refresh the page or click “Start” to begin the game.
+	•	Score: The game tracks your score based on how many successful rounds you complete without errors.
+
+Contributing
+
+Feel free to fork the repository and contribute by opening issues or submitting pull requests.
+
+Let me know if you’d like any changes to this!
